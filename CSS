@@ -1,0 +1,59 @@
+html{
+    width: 100%; 
+}
+
+body{
+    width: 100%;  
+    margin:0; 
+    padding:0; 
+    -webkit-font-smoothing: antialiased; 
+    mso-padding-alt: 0px 0px 0px 0px;
+    background: #345;
+}
+
+header {
+    border="0" 
+    cellpadding="0" 
+    cellspacing="0" 
+    width="100%" 
+    bgcolor="#f98550" 
+    background="img/hero_gradient.jpg" 
+    style="height:450px; background-image: url('img/hero_gradient.jpg'); background-size: cover; -webkit-background-size: cover; -moz-background-size: cover -o-background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;
+}
+
+
+p,h1,h2,h3,h4{
+    margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+.cover {
+    font-size: 14px;
+    width: 100%;
+    border: 0;
+    padding: 0;
+    border-spacing: 0;
+    bgcolor= rgb(f98550);
+    background:url(img/hero_gradient.jpg); 
+    height:450px; 
+    background-image: url('img/hero_gradient.jpg'); 
+    background-size: cover; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover 
+    -o-background-size: cover; 
+    background-position: 50% 50%; 
+    background-repeat: no-repeat;";
+}
+
+img{
+    border: none!important;
+}
+
+form{
+display: inline-block;
+padding-bottom: 23px;
+margin: inherit;
+}
+
